@@ -29,4 +29,26 @@ public class Person {
             spouse.addSpouse(this);
         }
     }
+
+
+    public void printFamilyTree(int level) {
+
+        String indent = "  ".repeat(level);
+
+
+        System.out.print(indent + this.name);
+
+        if (this.spouse != null) {
+            System.out.print(" -- Married to: " + this.spouse.name);
+        }
+
+        if (this.children.isEmpty()) {
+            System.out.println(" -- Single");
+        } else {
+            System.out.println(" -- Children:");
+            for (Person child : this.children) {
+                child.printFamilyTree(level + 1);
+            }
+        }
+    }
 }
