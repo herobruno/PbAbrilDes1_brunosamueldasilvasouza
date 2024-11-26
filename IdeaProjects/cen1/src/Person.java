@@ -23,5 +23,10 @@ public class Person {
     public void addChild(Person child) {
         this.children.add(child);
     }
-
+    public void addSpouse(Person spouse) {
+        this.spouse = spouse;
+        if (spouse.spouse != this) {
+            spouse.addSpouse(this);
+        }
+    }
 }
