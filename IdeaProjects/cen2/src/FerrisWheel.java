@@ -34,7 +34,7 @@ public class FerrisWheel {
 
                 if (child.getAge() < 12 && child.getResponsible() == null) {
                     System.out.println(child.getName() + " cannot ride without a father.");
-                    return; // Impede o embarque
+                    return;
                 }
             }
         }
@@ -47,7 +47,8 @@ public class FerrisWheel {
         System.out.println("Boarded successfully.");
     }
 
-    // Exibe o status de todas as gôndolas
+
+
     public void status() {
         for (int i = 0; i < gondolas.length; i++) {
             System.out.print("Gondola " + i + ": ");
