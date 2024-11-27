@@ -17,7 +17,7 @@ Visualização da Árvore Genealógica: É possível visualizar a árvore geneal
 
 Linguagem: Java
 
-***Como Funciona***
+***Como Funciona:***
    
 Person: A classe Person representa uma pessoa, com um nome, cônjuge e lista de filhos.
 
