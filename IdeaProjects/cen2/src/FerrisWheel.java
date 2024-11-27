@@ -47,7 +47,12 @@ public class FerrisWheel {
         System.out.println("Boarded successfully.");
     }
 
+<<<<<<< HEAD
   
+=======
+
+
+>>>>>>> b878077805bb2b61c9d501a7e9dce05b29d2fa2f
     public void status() {
         for (int i = 0; i < gondolas.length; i++) {
             System.out.print("Gondola " + i + ": ");
