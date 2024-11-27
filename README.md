@@ -5,7 +5,7 @@
 
 ***Este projeto simula uma árvore genealógica,o objetivo desse projeto é imprimir na tela a árvore genealógica de uma pessoa: cônjuge, filhos e seus respectivos cônjuges e filhos, recursivamente e sem limite para adicionar novas pessoas à árvore.***
 
-**Funcionalidades:**
+***Funcionalidades:***
 
 Criação de Pessoas: Você pode criar pessoas e relacioná-las como filhos de outros membros da família.
 
@@ -23,7 +23,7 @@ Person: A classe Person representa uma pessoa, com um nome, cônjuge e lista de 
 
 
 
-Métodos Importantes:
+***Métodos Importantes:***
 
 addSpouse(Person spouse): Adiciona um cônjuge à pessoa.
 
