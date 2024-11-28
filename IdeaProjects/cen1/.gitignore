@@ -21,5 +21,9 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+# Arquivos de configuração do VSCode
+.vscode/
 
+# Arquivos do MacOS
+.DS_Store
 
