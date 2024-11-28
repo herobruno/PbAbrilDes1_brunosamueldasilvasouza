@@ -1,5 +1,9 @@
-"# PbAbrilDes1_BrunoSamuelDaSilvaSouza" 
-***O Cen2 é um sistema de simulação para o controle de uma roda gigante (Ferris Wheel), onde pessoas (adultos e crianças) podem embarcar em gondolas de acordo com certas regras. O sistema valida se as crianças podem embarcar sozinhas ou se precisam estar acompanhadas de um responsável (pai ou adulto).***
+
+***Projeto:Roda gigante***
+
+***Descrição***
+
+***Um sistema de simulação para o controle de uma roda gigante (Ferris Wheel), onde pessoas (adultos e crianças) podem embarcar em gondolas de acordo com certas regras. O sistema valida se as crianças podem embarcar sozinhas ou se precisam estar acompanhadas de um responsável (pai ou adulto).***
 
 ***Stack***
 
@@ -34,7 +38,7 @@ Execute a classe Main.java para iniciar a simulação da roda gigante. A simula�
 5. Modifique os Dados
 Você pode modificar os dados de entrada na classe Main para testar diferentes cenários. Por exemplo, pode alterar os nomes, idades, ou os responsáveis das crianças.
 
---Diagrama de classes--
+---Diagrama de classes---
 
 ![image](https://github.com/user-attachments/assets/eb57b413-d632-47d5-ba69-bd8f1d5cba08)
 
