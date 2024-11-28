@@ -1,4 +1,4 @@
-"# PbAbrilDes1_BrunoSamuelDaSilvaSouza" 
+
 ***Projeto: Árvore Genealógica***
 
 ***Descrição:***
@@ -32,3 +32,6 @@ addChild(Person child): Adiciona um filho à pessoa.
 printFamilyTree(int level): Imprime a árvore genealógica a partir dessa pessoa, utilizando recursão para exibir os filhos.
 
 ---Saida Esperada---
+
+![image](https://github.com/user-attachments/assets/23d87d10-7cab-41e3-9d60-58e1e9088109)
+
