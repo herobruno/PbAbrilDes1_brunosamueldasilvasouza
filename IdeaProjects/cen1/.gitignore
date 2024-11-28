@@ -27,14 +27,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-# Ignorar arquivos do Windows
-Thumbs.db
-Desktop.ini
-
-# Ignorar pastas específicas de IDEs
-
-.idea/
-
-# Ignorar arquivos temporários
-*.log
-*.tmp
