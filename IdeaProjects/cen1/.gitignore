@@ -21,12 +21,12 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
-
-### VS Code ###
+# Arquivos de configuração do VSCode
 .vscode/
 
-### Mac OS ###
+# Arquivos do MacOS
 .DS_Store
+<<<<<<< HEAD
 # Ignorar arquivos e diretórios do sistema e de usuário
 .gitconfig
 .ssh/
@@ -51,3 +51,6 @@ Downloads/
 Music/
 Pictures/
 Videos/
+=======
+
+>>>>>>> fe593cf30403ec31bdaff0c87adedadafbfd67ff
