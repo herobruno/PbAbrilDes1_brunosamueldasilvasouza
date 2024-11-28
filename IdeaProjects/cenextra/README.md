@@ -29,6 +29,6 @@ Caso contrário, o sentimento é neutro.
 
 O método countOccurrences é responsável por contar as ocorrências de um emoticon específico na mensagem. Ele usa a função indexOf para localizar cada ocorrência e aumenta a contagem até que todas as ocorrências sejam encontradas:
 
----Saida Esperada:---
+---Saida Esperada---
 
 ![WhatsApp Image 2024-11-28 at 09 18 53](https://github.com/user-attachments/assets/b609c873-8bfb-49e1-b035-ff734fbe823c)
