@@ -43,7 +43,7 @@ Você pode modificar os dados de entrada na classe Main para testar diferentes c
 ![image](https://github.com/user-attachments/assets/eb57b413-d632-47d5-ba69-bd8f1d5cba08)
 
 
---Saída Esperada--
+---Saída Esperada---
 
 ![image](https://github.com/user-attachments/assets/f563e8a3-9122-4b7b-8f3b-7a161cc55075)
 
